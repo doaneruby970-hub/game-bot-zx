@@ -85,7 +85,7 @@ game-bot-zx/
 ## 安装
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/doaneruby970-hub/game-bot-zx.git
 cd game-bot-zx
 pip install -r requirements.txt
 ```
