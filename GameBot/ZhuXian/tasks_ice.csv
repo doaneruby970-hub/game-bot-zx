@@ -1,0 +1,5 @@
+id,description,state_img,action_type,action_target
+201,冰雪副本,imgs/mission_bar/201Ice.png,SEQUENCE,seqs/201Ice.txt
+202,退出剧情寻路,imgs/mission_bar/201Ice2.png,SEQUENCE,seqs/201Ice2.txt
+203,走向蛙王,imgs/mission_bar/201Ice3.png,SEQUENCE,seqs/201Ice3.txt
+204,退出,imgs/mission_bar/201Ice4.png,SEQUENCE,seqs/201Ice4.txt

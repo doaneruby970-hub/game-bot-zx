@@ -1,0 +1,7 @@
+id,description,state_img,action_type,action_target,timeout
+200,点副本,imgs/mission_bar/200.png,SEQUENCE,seqs/300.txt,200
+3011,玄火,imgs/mission_bar/3011.png,SEQUENCE,seqs/3011.txt,300
+3012,玄火,imgs/mission_bar/3012.png,SEQUENCE,seqs/3012.txt,300
+204,退出,imgs/mission_bar/201Ice4.png,SEQUENCE,seqs/201Ice4.txt,300
+
+

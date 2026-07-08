@@ -1,0 +1,6 @@
+JSON|data_json/按一下i键.json
+AUTO_CLICK|200.png
+AUTO_CLICK|200A1.png
+JSON|data_json/向前走一大步.json
+JSON|data_json/向前走一大步.json
+JSON|data_json/点一下键盘F.json

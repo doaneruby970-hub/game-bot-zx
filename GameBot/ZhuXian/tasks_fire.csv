@@ -1,0 +1,5 @@
+id,description,state_img,action_type,action_target
+201,火焰副本,imgs/mission_bar/201fire.png,SEQUENCE,seqs/201fire.txt
+202,寻路,imgs/mission_bar/201fire1.png,SEQUENCE,seqs/201fire1.txt
+203,寻路1,imgs/mission_bar/201fire2.png,SEQUENCE,seqs/201fire2.txt
+204,退出,imgs/mission_bar/201Ice4.png,SEQUENCE,seqs/201Ice4.txt

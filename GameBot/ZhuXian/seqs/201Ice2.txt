@@ -1,0 +1,5 @@
+#JSON|data_json/鼠标晃动加退出.json
+JSON|data_json/点击M键地图.json
+AUTO_CLICK|201Ice2.png/A
+JSON|data_json/点击M键地图.json
+AUTO_RUN|DDD.png/30

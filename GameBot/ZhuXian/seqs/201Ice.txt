@@ -1,0 +1,6 @@
+JSON|data_json/向前走一大步.json
+JSON|data_json/点击M键地图.json
+AUTO_CLICK|201Ice.png/A
+JSON|data_json/点击M键地图.json
+JSON|data_json/视角向下.json
+AUTO_RUN|DDD.png/30

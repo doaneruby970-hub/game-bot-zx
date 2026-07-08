@@ -1,0 +1,3 @@
+AUTO_CLICK|21.png
+JSON|data_json/按一下B键.json
+JSON|data_json/屏幕放大.json

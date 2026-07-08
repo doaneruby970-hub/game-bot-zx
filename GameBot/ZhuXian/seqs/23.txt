@@ -1,0 +1,16 @@
+JSON|data_json/视角拉长.json
+JSON|data_json/视角重置.json
+TURN|R
+TURN|R
+TURN|R
+TURN|R
+JSON|data_json/和云纵走.json
+JSON|data_json/屏幕放大.json
+JSON|data_json/静步走.json
+JSON|data_json/ctrl呼出鼠标.json
+AUTO_RIGHT_CLICK|EEE.png
+JSON|data_json/ctrl呼出鼠标.json
+AUTO_RUN|DDD.png
+JSON|data_json/静步走到牛尸体.json
+JSON|data_json/视角拉长.json
+JSON|data_json/向前一小步.json

@@ -1,0 +1,7 @@
+JSON|data_json/点击M键地图.json
+AUTO_CLICK|201fire.png/A
+JSON|data_json/点击M键地图.json
+JSON|data_json/屏幕放大.json
+JSON|data_json/屏幕放大.json
+JSON|data_json/视角向下.json
+AUTO_RUN|DDD.png/30

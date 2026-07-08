@@ -1,0 +1,8 @@
+JSON|data_json/点击M键地图.json
+AUTO_CLICK|201fire1.png/A
+JSON|data_json/点击M键地图.json
+AUTO_RUN|DDD.png/60
+JSON|data_json/ctrl呼出鼠标.json
+AUTO_CLICK|201fire11.png/A
+JSON|data_json/ctrl呼出鼠标.json
+AUTO_RUN|DDD.png/60

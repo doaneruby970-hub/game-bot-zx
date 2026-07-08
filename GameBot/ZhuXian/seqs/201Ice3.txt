@@ -1,0 +1,16 @@
+#JSON|data_json/鼠标晃动加退出.json
+JSON|data_json/ctrl呼出鼠标.json
+AUTO_CLICK|201Ice3.png/A
+JSON|data_json/ctrl呼出鼠标.json
+JSON|data_json/屏幕放大.json
+JSON|data_json/屏幕放大.json
+JSON|data_json/静步走.json
+AUTO_RUN|DDD.png/60
+JSON|data_json/ctrl呼出鼠标.json
+AUTO_CLICK|201Ice31.png/A
+JSON|data_json/ctrl呼出鼠标.json
+AUTO_RUN|DDD.png/60
+JSON|data_json/静步走.json
+JSON|data_json/视角拉长.json
+JSON|data_json/视角重置.json
+JSON|data_json/向前走一大步.json

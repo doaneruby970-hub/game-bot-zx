@@ -1,0 +1,3 @@
+id,description,state_img,action_type,action_target,timeout
+200,点副本,imgs/mission_bar/200.png,SEQUENCE,seqs/200.txt,200
+201,判断随机副本,imgs/mission_bar/201fire.png|imgs/mission_bar/201Ice.png,SCRIPT,scripts/run_fire.py|scripts/run_ice.py,1200

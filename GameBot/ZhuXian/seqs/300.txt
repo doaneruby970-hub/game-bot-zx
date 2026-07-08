@@ -1,0 +1,5 @@
+JSON|data_json/按一下i键.json
+AUTO_CLICK|300.png
+PLAY_RIGHT|玄火队友.json
+JSON|data_json/点击鼠标左键.json
+AUTO_CLICK|200A1.png
